@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="EAIKtest/EAIKtest.vcxproj" Id="6dfe5115-3e9b-4230-be03-cd0a1717a244" />
+</Solution>
