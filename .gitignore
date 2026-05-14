@@ -1,0 +1,26 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/x64/Debug
+/EAIKtest/x64/Debug/EAIKtest.tlog
+/EAIKtest/x64/Debug
+/EAIK/CPP/external/ik-geo/ikfast
+/EAIK/CPP/external/ik-geo/matlab
+/EAIK/CPP/external/ik-geo/python
+/EAIK/CPP/external/ik-geo/rust
+/EAIK/CPP/external/ik-geo/test_cases
+/EAIK/CPP/external/ik-geo/.gitignore
+/EAIK/CPP/external/ik-geo/LICENSE
+/EAIK/CPP/external/ik-geo/README.md
+/EAIK/examples
+/EAIK/Images
+/EAIK/src/eaik
+/EAIK/.gitignore
+/EAIK/.gitmodules
+/EAIK/LICENSE
+/EAIK/MANIFEST.in
+/EAIK/pyproject.toml
+/EAIK/README.md
+/EAIK/setup.py
